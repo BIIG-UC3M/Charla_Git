@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 def swap(a,b):
-  temp = a
-  a = b
-  b = temp
+  a = a + b
+  b = a - b
+  a = a - b
   return a,b
 
 ############test###########
