@@ -8,8 +8,8 @@ def swap(a,b):
 
 ############test###########
 
-x= 1
-y = 9
+x = 1
+y = 69
 print "Las variables X e Y antes de intercamviar valores",x,y
 x,y = swap(x,y)
 print "Las variables X e Y antes de intercamviar valores",x,y
